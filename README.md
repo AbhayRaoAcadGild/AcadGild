@@ -1,0 +1,1 @@
+This repository contains jupyter notebooks for Assignment 1. Please find notebooks in folder 01.
